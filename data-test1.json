@@ -1,4 +1,3 @@
-var data= 
 [
 {
   "state":"Maine",
@@ -216,4 +215,4 @@ var data=
   "year":2015,
   "value":"150"
 }
-];
+]
